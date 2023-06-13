@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Counter-App/static/css/main.d9c46c88.css",
-    "main.js": "/Counter-App/static/js/main.7f660463.js",
+    "main.css": "/Counter-App/static/css/main.9d528775.css",
+    "main.js": "/Counter-App/static/js/main.11e035d5.js",
     "static/media/pipe.mp3": "/Counter-App/static/media/pipe.7e2bbcbab0b27e588cf6.mp3",
     "static/media/coin.mp3": "/Counter-App/static/media/coin.9b4fef8a870ce3085dc7.mp3",
     "static/media/pause.mp3": "/Counter-App/static/media/pause.c78e525f9f1d56eee9a8.mp3",
     "static/media/stomp.mp3": "/Counter-App/static/media/stomp.83e29a9e90d426c199b7.mp3",
     "static/media/fireball.mp3": "/Counter-App/static/media/fireball.3ba3b299c403890ef77e.mp3",
     "index.html": "/Counter-App/index.html",
-    "main.d9c46c88.css.map": "/Counter-App/static/css/main.d9c46c88.css.map",
-    "main.7f660463.js.map": "/Counter-App/static/js/main.7f660463.js.map"
+    "main.9d528775.css.map": "/Counter-App/static/css/main.9d528775.css.map",
+    "main.11e035d5.js.map": "/Counter-App/static/js/main.11e035d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9c46c88.css",
-    "static/js/main.7f660463.js"
+    "static/css/main.9d528775.css",
+    "static/js/main.11e035d5.js"
   ]
 }
