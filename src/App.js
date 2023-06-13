@@ -63,7 +63,7 @@ function App() {
         {/* rewind back or front by 10 */}
         <div className='flex justify-evenly items-center gap-10 rounded-md text-3xl p-[1rem] w-[19rem] lg:w-[20rem]  bg-cyan-500 shadow-lg shadow-cyan-500/50'>
           <button onClick={() => { setCount(count - 10); playSound(soundMinus10); }}
-            className='text-[2.5rem] flex items-center active:scale-125 select-none outline-none'>
+            className='text-[2.5rem] flex items-center active:scale-110 select-none outline-none'>
             <img src={minus} width={40} />
           </button>
 
@@ -72,12 +72,12 @@ function App() {
           {/* Reset button */}
           <p onClick={() => { setCount(0); playSound(soundReset); }}
             className='font-bold text-[1.7rem] flex items-center justify-center w-10 cursor-pointer 
-            active:scale-125 select-none'>Reset</p>
+            active:scale-110 select-none'>Reset</p>
 
           <div style={{ borderLeft: '2px solid black', height: '100%' }}></div>
 
           <button onClick={() => { setCount(count + 10); playSound(soundPlus10); }}
-            className='text-[2.5rem] flex items-center active:scale-125 select-none outline-none '>
+            className='text-[2.5rem] flex items-center active:scale-110 select-none outline-none '>
             <img src={plus} width={40} />
           </button>
 
