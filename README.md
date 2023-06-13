@@ -8,8 +8,6 @@ I've built a simple counter app that allows you to increment and decrement a cou
 Features:
         Plus Button: Increases the counter by 1.
         Minus Button: Decreases the counter by 1.
-
         Reset Button: counter sets to 0
-
         Before Button: Decreases the counter by 10.
         After Button: Increases the counter by 10.
